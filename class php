@@ -1,1 +1,7 @@
-
+mysql -u root
+grant all privileges on *.* to "danilo"@"localhost" identified by "secret";
+exit
+mysql -u danilo -p
+secret
+create database vezba;
+use vezba;
