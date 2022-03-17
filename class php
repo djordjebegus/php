@@ -10,6 +10,8 @@ create table todos (
 -> title varchar(100) not null,
 -> done int(1) not null
 -> );
+show databases;
+describe todos;
 
 
 
