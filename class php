@@ -12,6 +12,12 @@ create table todos (
 -> );
 show databases;
 describe todos;
+insert into todos values (null,"Uciti PHP,0);
+insert into todos values (null,"Uciti JS,0);
+insert into todos values (null,"Uciti SQL,0);
+exit
+exit
+
 
 
 
