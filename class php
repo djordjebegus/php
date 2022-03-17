@@ -5,3 +5,6 @@ mysql -u danilo -p
 secret
 create database vezba;
 use vezba;
+
+
+
