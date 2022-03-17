@@ -5,6 +5,12 @@ mysql -u danilo -p
 secret
 create database vezba;
 use vezba;
+create table todos (
+-> id int(11) primary key auto_increment,
+-> title varchar(100) not null,
+-> done int(1) not null
+-> );
+
 
 
 
